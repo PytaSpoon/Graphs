@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="In Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Out Files">
+      <UniqueIdentifier>{a23b836d-6518-486e-89f9-7a4f309dd605}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="graphm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="graph0.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph1.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph2.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph3.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph8A.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph8B.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph10A.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph10B.in">
+      <Filter>In Files</Filter>
+    </None>
+    <None Include="graph0.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="K9.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="C9.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="G33.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="graph1.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="graph2.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="graph3.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="K54K45.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="S9.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="W9.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="graph8.out">
+      <Filter>Out Files</Filter>
+    </None>
+    <None Include="graph10.out">
+      <Filter>Out Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
